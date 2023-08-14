@@ -1,0 +1,38 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+#quote {
+  font-family: Helvetica;
+  font-size: 60px;
+  font-weight: bold;
+  color: beige;
+}
+
+
+#author {
+  font-family: Helvetica;
+  font-size: 40px;
+  font-style: italic;
+  color: grey;
+  text-align: right;
+  margin-right: 10%
+}
+
+.quote-div {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: midnightblue;
+}
+
+#image {
+  width: 40%;
+}
